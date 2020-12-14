@@ -1,0 +1,19 @@
+{
+  "name": "diplomado",
+  "version": "1.0.0",
+  "description": "diplomado imrg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manny412imrg/DiplomadoServidor.git"
+  },
+  "author": "Ivan Manuel Romero Gutierrez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manny412imrg/DiplomadoServidor/issues"
+  },
+  "homepage": "https://github.com/manny412imrg/DiplomadoServidor#readme"
+}
